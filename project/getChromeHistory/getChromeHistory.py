@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # 统计Chrome访问历史记录
-# Ver0.1
+# Ver 1.0
 import re
 import chardet
 import urllib
